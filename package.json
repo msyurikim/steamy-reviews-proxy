@@ -20,7 +20,10 @@
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "http-proxy-middleware": "^1.0.3"
+    "faker": "^4.1.0",
+    "http-proxy-middleware": "^1.0.3",
+    "new": "^0.1.1",
+    "newrelic": "^6.8.0"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
